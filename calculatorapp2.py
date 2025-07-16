@@ -24,4 +24,22 @@ answer = first_number - second_number
 print(f"{first_number} + {second_number} = {answer}")
 
 
+#prompt user for input
+print("Enter two numbers to add")
+first_number=float(input("Enter first Number:"))
+second_number=float(input("Enter Second Number:"))
+
+#for Multiplication operation
+total = first_number * second_number
+print(f"{first_number} * {second_number} = {total}")
+
+#prompt user for input
+print("Enter two numbers to add")
+first_number=float(input("Enter first Number:"))
+second_number=float(input("Enter Second Number:"))
+
+#for Division operation
+total = first_number / second_number
+print(f"{first_number} / {second_number} = {total}")
+
 

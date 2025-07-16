@@ -12,7 +12,7 @@ second_number=float(input("Enter Second Number:"))
 
 #for Addition operation
 sum = first_number + second_number
-print(f"{first_number} + {second_number} = {sum}")
+print(f"{first_number} + {second_number} = {sum}" 00)
 
 #prompt user for input
 print("Enter two to perform subtraction")
@@ -21,7 +21,7 @@ second_number=float(input("Enter Second Number:"))
 
 #for Subtration operation
 answer = first_number - second_number
-print(f"{first_number} + {second_number} = {answer}")
+print(f"{first_number} + {second_number} = {answer} 00")
 
 
 #prompt user for input
@@ -31,7 +31,7 @@ second_number=float(input("Enter Second Number:"))
 
 #for Multiplication operation
 total = first_number * second_number
-print(f"{first_number} * {second_number} = {total}")
+print(f"{first_number} * {second_number} = {total}" 00)
 
 #prompt user for input
 print("Enter two numbers to add")
@@ -40,6 +40,6 @@ second_number=float(input("Enter Second Number:"))
 
 #for Division operation
 total = first_number / second_number
-print(f"{first_number} / {second_number} = {total}")
+print(f"{first_number} / {second_number} = {total} 00")
 
 
